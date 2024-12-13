@@ -1,3 +1,4 @@
+```dax
 Total Qty = SUM ( Sale[Quantity] )
 
 
