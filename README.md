@@ -1,5 +1,7 @@
 ## Sales Performance Analysis - Power BI Project
 
+![Page 1 Screenshot](Screenshots/Page%201.jpg)
+
 ### Project Overview
 
 This project provides a comprehensive analysis of sales performance across products, regions, and time periods. The report is built using Power BI, incorporating advanced DAX formulas and a well-structured data model to derive actionable insights that guide strategic business decisions.
